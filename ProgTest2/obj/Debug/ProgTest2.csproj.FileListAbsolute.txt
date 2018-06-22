@@ -1,0 +1,5 @@
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\ProgTest2\ProgTest2\bin\Debug\ProgTest2.exe.config
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\ProgTest2\ProgTest2\bin\Debug\ProgTest2.exe
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\ProgTest2\ProgTest2\bin\Debug\ProgTest2.pdb
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\ProgTest2\ProgTest2\obj\Debug\ProgTest2.exe
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\ProgTest2\ProgTest2\obj\Debug\ProgTest2.pdb
